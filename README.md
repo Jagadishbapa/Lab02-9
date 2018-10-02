@@ -1,1 +1,6 @@
 # Lab02
+Duyen Pham
+
+COSC 2030-01
+Lab02
+10/01/2018
